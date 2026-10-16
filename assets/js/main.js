@@ -1,7 +1,7 @@
 /**
  * ===================================================================
  * PORTOFOLIO KREATIF SISWA XI DKV (DESAIN KOMUNIKASI VISUAL)
- * Author: Zevano Octavaro Akbar (Radit.DKV)
+ * Author: Zevano Octavaro Akbar (Zevano.DKV)
  * Interactive Engine: Gallery Filtering, Modals, Mockup Studio, Lo-Fi Audio
  * ===================================================================
  */
@@ -707,7 +707,7 @@ function initContactCalculator() {
       }
 
       // Generate WhatsApp Link
-      const message = `Halo Raditya (Radit.DKV), saya *${name}* tertarik untuk berdiskusi tentang:\n\n` +
+      const message = `Halo Zevano (Radit.DKV), saya *${name}* tertarik untuk berdiskusi tentang:\n\n` +
                       `📌 *Kategori Proyek:* ${projectType}\n` +
                       `💰 *Estimasi Budget:* ${budget}\n` +
                       `📝 *Kebutuhan Desain:* ${notes}\n\n` +
